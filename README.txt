@@ -1,0 +1,3 @@
+- File nonapi-feature.ipynb: lấy các đặc trưng n-gram và độ dài tên miền, số chữ số, vv => lưu vào f1-f22-ngram.csv
+- File price-feature.ipynb: lấy đặc trưng giá tld => lưu vào f23-price-tld.csv
+- File whois-feature: lấy ngày tồn tại của tên miền => lưu vào whois-feature.csv
